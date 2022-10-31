@@ -1,0 +1,2 @@
+1- Countdown timer to class start (weeks, days, hours, minutes, seconds)
+2- Share class button, text with link and details (wordle share)
